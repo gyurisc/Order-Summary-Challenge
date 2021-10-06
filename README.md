@@ -31,6 +31,7 @@ Users should be able to:
 ![](./screenshot.jpg)
 ### Links
 
+- Solution page: [Solution page](https://www.frontendmentor.io/solutions/simple-html-and-css-solution-LqBydl2Kl)
 - Live Site URL: [Netlify Live Site](https://order-summary-challenge-fm.netlify.app/)
 
 ## My process
