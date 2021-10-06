@@ -56,6 +56,6 @@ I will go for the next challenge.
 
 ## Author
 
-- Website - [Little Big Tomatoes Blog](https://littlebigtomatoes.com/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/gyurisc)
-- Twitter - [@yourusername](https://www.twitter.com/gyurisc)
+- Website - [LBT Blog](https://littlebigtomatoes.com/)
+- Frontend Mentor - [@gyurisc](https://www.frontendmentor.io/profile/gyurisc)
+- Twitter - [@gyurisc](https://www.twitter.com/gyurisc)
