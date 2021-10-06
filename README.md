@@ -31,7 +31,6 @@ Users should be able to:
 ![](./screenshot.jpg)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Netlify Live Site](https://order-summary-challenge-fm.netlify.app/)
 
 ## My process
